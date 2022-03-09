@@ -9,7 +9,7 @@ I'm a full stack web developer
 
 - 🔭 I’m currently working with react, redux and node js 
 - 🌱 I’m currently learning react native and typescript
-- 👯 I’m looking to collaborate on ...
+
 
 - 📫 How to reach me: gerdlcp@gmail.com
 
