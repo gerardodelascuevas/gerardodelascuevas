@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I'm a full stack web developer
+I'm a full stack Software developer
 
-- 🔭 I’m currently working with react, redux and node js 
+- 🔭 I’m currently working with react, redux, Node js, PHP, Laravel, Electron 
 - 🌱 I’m currently learning react native and typescript
 
 
