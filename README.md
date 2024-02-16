@@ -3,8 +3,8 @@
 
 I'm a full stack Software developer
 
-- 🔭 I’m currently working with react, redux, Node js, PHP, Laravel, Electron 
-- 🌱 I’m currently learning react native and typescript
+- 🔭 I’m currently working with React, Redux, Node js, PHP, Laravel, Electron, React Native and Typescript
+- 🌱 I’m currently learning Python and AI
 
 
 - 📫 How to reach me: gerdlcp@gmail.com
@@ -25,6 +25,9 @@ Languages and Tools:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 
 
 </p>
