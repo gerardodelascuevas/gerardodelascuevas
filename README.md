@@ -3,7 +3,7 @@
 
 I'm a full stack Software developer
 
-- 🔭 I’m currently working with React, Redux, Node js, PHP, Laravel, Electron, React Native and Typescript
+- 🔭 I’m currently working with React, Redux, Node js, PHP, Laravel, Electron, React Native and Typescript 
 - 🌱 I’m currently learning Python and AI
 
 
