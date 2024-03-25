@@ -34,7 +34,7 @@ Languages and Tools:
 <div> <br/> 
   #My Stats
   
-  [![](https://github-readme-stats.vercel.app/api?username=gerardodelascuevas&show_icons=true)](https://github.com/gerardodelascuevas/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/4-productive-time.svg)]
+  [![](https://github-readme-stats.vercel.app/api?username=gerardodelascuevas&show_icons=true)](https://github.com/gerardodelascuevas/github-profile-summary-cards)
 </div>
 <!--
 **gerardodelascuevas/gerardodelascuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
