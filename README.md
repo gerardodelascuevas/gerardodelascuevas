@@ -32,7 +32,7 @@ Languages and Tools:
 
 </p>
 <div> <br/> 
-  #My Stats
+ My Stats
   
   [![](https://github-readme-stats.vercel.app/api?username=gerardodelascuevas&show_icons=true)](https://github.com/gerardodelascuevas/github-profile-summary-cards)
 </div>
