@@ -31,7 +31,7 @@ Languages and Tools:
 
 
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardodelascuevas)]
+https://github-readme-stats.vercel.app/api?username=gerardodelascuevas
 <!--
 **gerardodelascuevas/gerardodelascuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
