@@ -3,7 +3,7 @@
 
 I'm a full stack Software developer
 
-- 🔭 I’m currently working with React, Redux, Node js, PHP, Laravel, Electron, React Native and Typescript 
+- 🔭 I’m currently working with React, Vue, Node js, PHP, Laravel, Electron, React Native, Typescript, Java, Spring Boot, among others 
 - 🌱 I’m currently learning Python and AI
 
 
@@ -31,11 +31,12 @@ Languages and Tools:
 
 
 </p>
-<div> <br/> 
+<!--
+[<div> <br/> 
  My Stats
-  
+  <!--
   [![](https://github-readme-stats.vercel.app/api?username=gerardodelascuevas&show_icons=true)](https://github.com/gerardodelascuevas/github-profile-summary-cards)
-</div>
+</div>](url)
 <!--
 **gerardodelascuevas/gerardodelascuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
