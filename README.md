@@ -31,16 +31,17 @@ Languages and Tools:
 
 
 </p>
-<!--
-[<div> <br/> 
+
+<!--[-->
+<div> <br/> 
  My Stats
-  <!--
-  [![](https://github-readme-stats.vercel.app/api?username=gerardodelascuevas&show_icons=true)](https://github.com/gerardodelascuevas/github-profile-summary-cards)
-</div>](url)
+  
+ <!-- [![](https://github-readme-stats.vercel.app/api?username=gerardodelascuevas&show_icons=true)](https://github.com/gerardodelascuevas/github-profile-summary-cards)
+ -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardodelascuevas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+</div>](url)
+
 **gerardodelascuevas/gerardodelascuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-
--->
