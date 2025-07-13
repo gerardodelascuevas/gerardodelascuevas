@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-I'm a full stack Software engineer
+I'm a Full Stack Software Engineer
 
 - 🔭 I’m currently working with React, Vue, Node js, PHP, Laravel, Electron, React Native, Typescript, Java, Spring Boot, among others 
 - 🌱 I’m currently learning Python and AI
 
 
-- 📫 How to reach me: gerdlcp@gmail.com
+- 📫 How to reach me: gerardodelascuevasp@gmail.com
 
 
 
