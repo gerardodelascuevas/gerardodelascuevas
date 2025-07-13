@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a full stack Software developer
+I'm a full stack Software engineer
 
 - 🔭 I’m currently working with React, Vue, Node js, PHP, Laravel, Electron, React Native, Typescript, Java, Spring Boot, among others 
 - 🌱 I’m currently learning Python and AI
