@@ -3,7 +3,7 @@
 
 I'm a Full Stack Software Engineer
 
-- 🔭 I’m currently working with React, Vue, Node js, PHP, Laravel, Electron, React Native, Typescript, Java, Spring Boot, among others 
+- 🔭 I’m currently working with React, Vue, PHP, Laravel, Electron, React Native, Typescript, Java, Spring Boot, among others 
 - 🌱 I’m currently learning Python and AI
 
 
