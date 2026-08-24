@@ -33,9 +33,8 @@ Languages and Tools:
 </p>
 
 <br/>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gerardodelascuevas)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gerardodelascuevas&layout=compact)](https://github.com/stats-organization/github-stats-extended)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gerardodelascuevas)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **gerardodelascuevas/gerardodelascuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
