@@ -32,9 +32,8 @@ Languages and Tools:
 
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardodelascuevas/gerardodelascuevas)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
+[![Gerardo's GitHub stats](https://github-stats-extended.vercel.app/api?username=gerardodelascuevas)](https://github.com/stats-organization/github-stats-extended)
 <div> <br/> 
  
 <!--
