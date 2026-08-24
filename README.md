@@ -33,7 +33,9 @@ Languages and Tools:
 </p>
 
 <br/>
+
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gerardodelascuevas&langs_count=8)
+
 <!--
 **gerardodelascuevas/gerardodelascuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
